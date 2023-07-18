@@ -15,7 +15,7 @@
 
 ### 🚀 Let's Code Together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=gruvbox)
 
 
 
