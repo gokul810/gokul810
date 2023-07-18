@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Gokul, a 💻 Coding Enthusiast 🎮 Game Developer 🌌 Blender Wizard. 
+👋 Hello! I'm Gokul, a 💻 Coding Enthusiast 🎮 Game Developer 🌌 Blender Wizard. 
 # 
 ### 🌱 My Interests
 
@@ -13,7 +13,7 @@
 
 ### 🚀 Let's Code Together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 
 
