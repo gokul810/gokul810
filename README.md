@@ -1,8 +1,9 @@
+![Header](https://drive.proton.me/urls/ZKGVZ4H8GC#WmKoPq0SP7Uq)
 ### Hello, I'm Gokul 👋
 
 ### 🚀 Passionate Programmer | 🎮 Game Developer | ✨ Blender Enthusiast
 
-**Welcome to my digital playground!** I'm passionate about coding, crafting captivating games, and exploring virtual worlds through Blender.
+**Welcome to my *digital playground!** I'm passionate about coding, crafting captivating games, and exploring virtual worlds through Blender.
 
 ### 🔍 My Interests
 
