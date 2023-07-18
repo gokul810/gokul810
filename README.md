@@ -1,15 +1,13 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Gokul 👋
 
 🚀 Passionate Programmer | 🎮 Game Developer | ✨ Blender Enthusiast
 
-I love to code and build captivating games that take players on thrilling adventures. My journey into the world of game development began with a passion for blending art and technology, and I've been exploring virtual worlds ever since.
+Welcome to my coding world, where I bring virtual worlds to life through captivating games! 🎮🌌 #GameDev #Programming #Blender
 
 Let's connect and share our programming adventures:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [![Twitter](https://your-twitter-logo-url.com)](https://twitter.com/yourusername)
-- ...
+- [![Instagram](https://your-instagram-logo-url.com)](https://www.instagram.com/not_.goku)
+- [![Twitter](https://your-twitter-logo-url.com)](https://twitter.com/Gokul_ov)
 
-Feel free to reach out and collaborate on exciting projects together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
