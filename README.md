@@ -1,5 +1,6 @@
-👋 Hello! I'm Gokul, a 💻 Coding Enthusiast 🎮 Game Developer 🌌 Blender Wizard. 
+👋 Hello! I'm Gokul, 
 # 
+💻 Coding Enthusiast | 🎮 Game Developer | 🌌 Blender Wizard. 
 ### 🌱 My Interests
 
 - Game Development 🎮
