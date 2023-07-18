@@ -1,4 +1,4 @@
-👋 Hello! I'm Gokul, 
+### 👋 Hello! I'm Gokul
 
 💻 Coding Enthusiast | 🎮 Game Developer | 🌌 Blender Wizard. 
 
