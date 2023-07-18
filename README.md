@@ -4,7 +4,7 @@
 
 Hello world i'm gokul i like to do programming, gamedev and do some blender #Gamedev #Blender
 
-# Social
+Lets connect!
 
 - [![Instagram](https://your-instagram-logo-url.com)](https://www.instagram.com/not_.goku)
 - [![Twitter](https://img.shields.io/twitter/follow/Gokul_ov)](https://twitter.com/Gokul_ov)
