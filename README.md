@@ -2,9 +2,9 @@
 
 🚀 Passionate Programmer | 🎮 Game Developer | ✨ Blender Enthusiast
 
-Welcome to my coding world, where I bring virtual worlds to life through captivating games! 🎮🌌 #GameDev #Programming #Blender
+Hello world i'm gokul i like to do programming, gamedev and do some blender #Gamedev #Blender
 
-Let's connect and share our programming adventures:
+# Social
 
 - [![Instagram](https://your-instagram-logo-url.com)](https://www.instagram.com/not_.goku)
 - [![Twitter](https://your-twitter-logo-url.com)](https://twitter.com/Gokul_ov)
