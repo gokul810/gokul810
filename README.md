@@ -3,7 +3,7 @@
 
 ### 🚀 Passionate Programmer | 🎮 Game Developer | ✨ Blender Enthusiast
 
-**Welcome to my *digital playground!** I'm passionate about coding, crafting captivating games, and exploring virtual worlds through Blender.
+**Welcome to my digital playground!** I'm passionate about coding, crafting captivating games, and exploring virtual worlds through Blender.
 
 ### 🔍 My Interests
 
