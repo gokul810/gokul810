@@ -12,8 +12,8 @@ Welcome to my digital playground! I'm all about creating magic with code, crafti
 
 ### 🌐 Connect with Me :
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
 [![Instagram](https://img.shields.io/badge/Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/not_.goku)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
 
 ### 🚀 Let's Code Together!
 
