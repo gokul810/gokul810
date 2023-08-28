@@ -6,5 +6,5 @@
 - 🐧 Linux enthusiast 
 - 🎵 Like music
 
-![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=tokyonight)
+![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=gruvbox)
 
