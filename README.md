@@ -1,6 +1,7 @@
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_.goku)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
+[![Twitter](https://img.shields.io/badge/Follow-@Gokul_ov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
+
+👋 Hello World! I'm gokul, i do programming in javascript. 
 
 - 🎮 Programmer
 - ⚙️ Tech enthusiast 
