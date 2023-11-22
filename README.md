@@ -1,7 +1,7 @@
 
 [![Twitter](https://img.shields.io/badge/Follow-@Gokul_ov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
 
-<img src="https://github.com/gokul810/gokul810/blob/main/coder.gif" alt="Matrix">
+<img src="https://github.com/gokul810/gokul810/blob/main/coder.gif" alt="Matrix" width="240" height="48">
 
 👋 Hello World! I'm gokul, i do 🌟programming🌟 in javascript. currently learning Rust 🦀
 
