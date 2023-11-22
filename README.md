@@ -7,5 +7,5 @@
 - 🎮 Programmer
 - ⚙️ Tech enthusiast 
 
-![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=apprentice)
+![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=shadow_red)
 
