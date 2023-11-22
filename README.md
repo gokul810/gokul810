@@ -4,7 +4,6 @@
 👋 Hi, I'm gokul, i do 🌟programming🌟 in javascript & i love tech!. currently learning Rust 🦀
 
 <img src="https://github.com/gokul810/gokul810/blob/main/coder.gif" alt="Matrix" width="120" height="24">
-
 - 🎮 Programmer
 - ⚙️ Tech enthusiast 
 
