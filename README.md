@@ -3,7 +3,7 @@
 
 <img src="https://github.com/gokul810/gokul810/blob/main/coder.gif" alt="Matrix" width="240" height="48">
 
-👋 Hello World! I'm gokul, i do 🌟programming🌟 in javascript. currently learning Rust 🦀
+👋 Hi, I'm gokul, i do 🌟programming🌟 in javascript & i love tech!. currently learning Rust 🦀
 
 - 🎮 Programmer
 - ⚙️ Tech enthusiast 
