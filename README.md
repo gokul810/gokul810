@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/Follow-@Gokul_ov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
 
-👋 Hi, I'm gokul, i do 🌟programming🌟 in javascript & i love tech!. currently learning Rust 🦀
+// _Hi, I'm gokul, i do 🌟programming🌟 in javascript & i love tech!. currently learning Rust 🦀_
 
 - 🎮 Programmer
 - ⚙️ Tech enthusiast 
