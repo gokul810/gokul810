@@ -1,11 +1,8 @@
-<img src="https://github.com/gokul810/gokul810/blob/main/coder.gif" alt="Matrix" width="120" height="24">
-
-[![Twitter](https://img.shields.io/badge/Follow-@Gokul_ov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gokul_ov)
-
-// _Hi, I'm gokul, i do 🌟programming🌟 in javascript & i love tech!. currently learning Rust 🦀_
+// **Hi, I'm Gokul—a tech lover who enjoys playing with code and creating cool graphics. Whether I'm coding or designing, I'm always exploring the exciting mix of technology and art. Join me in the world where programming meets creativity!**
 
 - 🎮 Programmer
-- ⚙️ Tech enthusiast 
+- ⚙️ Tech enthusiast
+- 🖌️ Graphics Designer
 
 ![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=shadow_red)
 
