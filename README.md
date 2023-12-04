@@ -3,6 +3,3 @@
 - 🎮 Programmer
 - ⚙️ Tech enthusiast
 - 🖌️ Graphics Designer
-
-![Gokul K's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=shadow_red)
-
