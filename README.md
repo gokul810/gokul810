@@ -1,4 +1,4 @@
-// ** _hi im gokul_ ** 🌟
+// _hi im gokul_
 
 - 🎮 Programmer
 - ⚙️ Tech enthusiast
