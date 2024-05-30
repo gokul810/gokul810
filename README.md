@@ -6,4 +6,4 @@
 
 // _social_
 
-- ![X](https://img.shields.io/twitter/url)
+- @gokul_ov on X
