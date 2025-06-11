@@ -4,7 +4,6 @@
 
 > "Code is poetry when it solves problems clearly."
 
----
 ## Skillset 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash,linux,nodejs,git,react,go,js,html)](https://skillicons.dev)
@@ -14,7 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul810&layout=compact)
+
 ---
 ## Social 📫
 - 🐦 [@gokul_ov on 𝕏](https://twitter.com/gokul_ov)
-
