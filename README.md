@@ -1,9 +1,5 @@
-// _hi im gokul_
+# Hi, I'm Gokul 👋
 
-- 🎮 Programmer
-- ⚙️ Tech enthusiast
-- 🖌️ Graphics Designer
+🎮 Programmer | ⚙️ Tech Enthusiast | 🖌️ Graphics Designer
 
-// _social_
-
-- @gokul_ov on X
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bash,linux,nodejs,git)](https://skillicons.dev)
