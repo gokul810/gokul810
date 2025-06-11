@@ -1,6 +1,6 @@
 ## Hi, I'm Gokul 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1300&pause=1000&color=7CF71A&center=true&width=435&lines=%24+Creative+Technologist;%24+Automating+the+boring+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=7CF71A&center=true&width=435&lines=%24+Creative+Technologist;%24+Automating+the+boring+stuff)](https://git.io/typing-svg)
 
 > "Code is poetry when it solves problems clearly."
 
