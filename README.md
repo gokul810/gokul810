@@ -6,7 +6,7 @@
 
 ## Skillset 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,nodejs,git,react,go,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,nodejs,git,react,go,js,html,css)](https://skillicons.dev)
 
 ---
 ## Stats 📊
