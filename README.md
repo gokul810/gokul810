@@ -11,11 +11,18 @@
 ---
 ## Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul810&show_icons=true&locale=en&layout=compact&theme=merko"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul810&show_icons=true&locale=en&layout=compact&theme=merko"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gokul810&show_icons=true&theme=merko" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul810&theme=merko" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul810&theme=merko" />  -->
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokul810&theme=merko)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokul810&theme=merko)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul810&theme=merko)
+
 
 
 ---
